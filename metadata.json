@@ -1,0 +1,6 @@
+{
+  "name": "TSP3 Industrial CMMS / GMAO",
+  "description": "Système de Gestion de Maintenance Assistée par Ordinateur (GMAO / CMMS) pour l'usine TSP3 OCP Jorf Lasfar - Maintenance préventive, corrective, arrêts du mercredi, étalonnage et fiabilité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
